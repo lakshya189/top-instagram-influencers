@@ -65,9 +65,4 @@ This project is open source and available under the MIT License.
 
 For any questions or feedback, please contact [Your Name] at [Your Email].
 
-## Screenshots
 
-![Dashboard 1](screenshots/dashboard1.png)
-![Dashboard 2](screenshots/dashboard2.png)
-![Dashboard 3](screenshots/dashboard3.png)
-![Dashboard 4](screenshots/dashboard4.png)
